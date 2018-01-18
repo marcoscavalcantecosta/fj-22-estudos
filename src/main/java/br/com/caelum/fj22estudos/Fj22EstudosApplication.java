@@ -10,3 +10,4 @@ public class Fj22EstudosApplication {
 		SpringApplication.run(Fj22EstudosApplication.class, args);
 	}
 }
+ 
