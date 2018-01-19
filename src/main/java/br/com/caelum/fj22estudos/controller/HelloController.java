@@ -11,5 +11,11 @@ public class HelloController {
     public ModelAndView hello(){
         return new ModelAndView("hello");
     }
+    
+    @GetMapping("/teste")
+    public ModelAndView teste(){        
+    	return new ModelAndView("teste");
+    }
+    
 
 }

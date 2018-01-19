@@ -34,6 +34,10 @@
     <li>Twitter --> muito mais simples do que o verdadeiro</li>
 
     <h6>Lembrando que é livre, pode fazer qualquer coisa, desde que respeita as regras.</h6>
+    <form action="teste" method="get">
+		Seu Nome: <input type="text" name="nome" /><br /> 
+		<input type="submit" value="Gravar" />
+	</form>
 
     <footer class="footer">Caelum - Ensino e Educação</footer>
 </body>
